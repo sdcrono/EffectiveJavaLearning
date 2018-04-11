@@ -1,3 +1,5 @@
+package Chapter2;
+
 public class Duke {
     private final int form;
     private final String weapon;
@@ -36,6 +38,22 @@ public class Duke {
         weapon = builder.weapon;
         weight = builder.weight;
         height = builder.height;
+    }
+
+    public int getForm() {
+        return form;
+    }
+
+    public String getWeapon() {
+        return weapon;
+    }
+
+    public int getWeight() {
+        return weight;
+    }
+
+    public int getHeight() {
+        return height;
     }
 
 }
