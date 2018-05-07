@@ -1,4 +1,4 @@
-package Chapter2;
+package Chapter2.Item2;
 
 public class Duke {
     private final int form;

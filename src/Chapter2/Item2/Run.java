@@ -1,9 +1,9 @@
-package Chapter2;
+package Chapter2.Item2;
 
-import static Chapter2.NyPizza.Size.SMALL;
-import static Chapter2.Pizza.Topping.HAM;
-import static Chapter2.Pizza.Topping.ONION;
-import static Chapter2.Pizza.Topping.SAUSAGE;
+import static Chapter2.Item2.NyPizza.Size.SMALL;
+import static Chapter2.Item2.Pizza.Topping.HAM;
+import static Chapter2.Item2.Pizza.Topping.ONION;
+import static Chapter2.Item2.Pizza.Topping.SAUSAGE;
 
 public class Run {
     public static void main(String arg[]) {

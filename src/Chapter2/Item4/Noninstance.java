@@ -1,4 +1,4 @@
-package Chapter4;
+package Chapter2.Item4;
 
 public class Noninstance {
     private Noninstance() {

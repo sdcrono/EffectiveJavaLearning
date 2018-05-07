@@ -1,6 +1,4 @@
-package Chapter3;
-
-import java.util.Objects;
+package Chapter2.Item3;
 
 public class Elvis {
     public static final Elvis INSTANCE = new Elvis();
